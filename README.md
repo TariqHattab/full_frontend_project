@@ -1,4 +1,4 @@
-# snam
+# full_frontend_project
 
 A new Flutter project.
 
